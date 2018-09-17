@@ -1,5 +1,5 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
-import { NgxPicaService } from 'ngx-pica';
+import { NgxPicaService } from '@digitalascetic/ngx-pica';
 import { Rekognition, Credentials } from 'aws-sdk';
 
 @Component({
